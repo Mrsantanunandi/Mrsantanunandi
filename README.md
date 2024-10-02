@@ -1,6 +1,9 @@
 
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="URL_OF_YOUR_LOGO" alt="Tech Logo" style="width: 50px; height: auto;" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mrsantanunandi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
