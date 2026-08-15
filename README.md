@@ -149,20 +149,6 @@ I primarily work with **Java, Spring Boot, Spring Security, React, PostgreSQL, a
 
 ---
 
-**Technologies & Features:**
-
-* Spring Boot Microservices
-* Eureka Service Discovery
-* API Gateway
-* OpenFeign
-* REST APIs
-* JWT & Spring Security
-* React Frontend
-* PostgreSQL
-* AWS Deployment
-
----
-
 ## 🎯 Currently Working With
 
 ```text
@@ -179,14 +165,6 @@ AWS
 JWT
 Git & GitHub
 ```
-
----
-
-## 📊 GitHub Stats
-
-![Santanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsantanunandi\&show_icons=true\&theme=dark\&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsantanunandi\&layout=compact\&theme=dark)
 
 ---
 
@@ -211,6 +189,6 @@ Git & GitHub
 
 ---
 
-⭐ **Feel free to explore my repositories and projects!**
+⭐ **Feel free to explore my repositories!**
 
 💡 **Always learning. Always building.**
