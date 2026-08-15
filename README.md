@@ -20,14 +20,10 @@ I primarily work with **Java, Spring Boot, Spring Security, React, PostgreSQL, a
 
 ## 📊 GitHub Stats
 
-![Santanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsantanunandi&show_icons=true&theme=dark&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsantanunandi&layout=compact&theme=dark)
-
----
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrsantanunandi&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrsantanunandi&show_icons=true&theme=tokyonight&hide_rank=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsantanunandi&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
 
 ### ⚙️ Backend & Frameworks
 
