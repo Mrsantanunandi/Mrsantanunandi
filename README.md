@@ -1,64 +1,232 @@
-# Hi 👋, I'm Santanu Nandi  
+# Hi 👋, I'm Santanu Nandi
 
-🎓 B.Tech CSE Student | 💻 Java Full Stack Engineer (FSE) | ☁️ Backend & Cloud Enthusiast  
+🎓 **B.Tech CSE Student** | 💻 **Java Full Stack Developer** | ☁️ **Backend & Cloud Enthusiast**
 
-I am a Computer Science Engineering student passionate about building **scalable full-stack applications**, **RESTful APIs**, and **cloud-ready backend systems**.  
-I primarily work with **Java, Spring Boot, React**, and **relational databases**, and I enjoy learning system design and backend architecture.
+I'm a Computer Science Engineering student passionate about building **scalable full-stack applications, REST APIs, microservices, and cloud-ready backend systems**.
+
+I primarily work with **Java, Spring Boot, Spring Security, React, PostgreSQL, and AWS**, and I enjoy building real-world applications and continuously improving my development skills.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
 ### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* RESTful APIs
+* JWT
+* Microservices
+* API Development
+* API Integration
+
+---
+
+### 🧩 Microservices
+
+![Eureka](https://img.shields.io/badge/Netflix_Eureka-6DB33F?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?style=for-the-badge)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge)
+
+* Spring Cloud
+* Eureka Service Discovery
+* API Gateway
+* OpenFeign
+* Inter-Service Communication
+* Microservices Architecture
+
+---
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* REST API Integration
+* Frontend–Backend Integration
+* Responsive UI Development
 
 ---
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+* PostgreSQL
+* Oracle
+* SQL
+* Database Design
+* JPA / Hibernate
+* pgAdmin
 
 ---
 
-### ☁️ Cloud & OS
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔐 Security
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+
+* Spring Security
+* JWT Authentication
+* Authentication & Authorization
+* Role-Based Access Control
+* Secure REST APIs
 
 ---
 
-## 📊 GitHub Stats  
-⚠️ *GitHub APIs sometimes fail due to rate limits. These are the most stable versions.*
+### ☁️ Cloud & Deployment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsantanunandi&show_icons=true&theme=dark&hide_rank=true)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge\&logo=railway\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsantanunandi&layout=compact&theme=dark)
+* AWS Elastic Beanstalk
+* AWS RDS
+* Vercel
+* Railway
+* Netlify
+* Cloud Deployment
+* Backend Deployment
 
 ---
 
-## 🧑‍💻 Profile Focus
-- Java Full Stack Development  
-- Spring Boot & REST APIs  
-- React Frontend Integration  
-- Relational Databases  
-- Cloud-ready Backend Systems  
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+* Git & GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+* pgAdmin
+* API Testing & Debugging
 
 ---
 
-⭐ *If you like my work, consider starring my repositories.*
+### 🐧 OS & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+
+* Linux
+* Windows
+* Shell Scripting
+* Command Line
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Microservices Application
+
+**Java • Spring Boot • Spring Cloud • Eureka • API Gateway • OpenFeign • Spring Security • JWT • React • PostgreSQL**
+
+A full-stack e-commerce application built using a **microservices architecture**, with independent backend services communicating through REST APIs and OpenFeign.
+
+**Technologies & Features:**
+
+* Spring Boot Microservices
+* Eureka Service Discovery
+* API Gateway
+* OpenFeign
+* REST APIs
+* JWT & Spring Security
+* React Frontend
+* PostgreSQL
+* AWS Deployment
+
+---
+
+### 💼 Job Application Portal
+
+**Java • Spring Boot • React • REST APIs • PostgreSQL**
+
+A full-stack job application platform built with a Spring Boot backend and React frontend.
+
+---
+
+## 🎯 Currently Working With
+
+```text
+Java
+Spring Boot
+Spring Security
+Spring Cloud
+Microservices
+REST APIs
+React
+JavaScript
+PostgreSQL
+AWS
+JWT
+Git & GitHub
+```
+
+---
+
+## 📊 GitHub Stats
+
+![Santanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsantanunandi\&show_icons=true\&theme=dark\&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsantanunandi\&layout=compact\&theme=dark)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Spring Boot
+* Microservices
+* System Design
+* AWS & Cloud Deployment
+* Backend Architecture
+* Scalable Application Development
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/Mrsantanunandi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and projects!**
+
+💡 **Always learning. Always building.**
