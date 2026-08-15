@@ -149,14 +149,6 @@ I primarily work with **Java, Spring Boot, Spring Security, React, PostgreSQL, a
 
 ---
 
-## 🚀 Projects
-
-### 🛒 E-Commerce Microservices Application
-
-**Java • Spring Boot • Spring Cloud • Eureka • API Gateway • OpenFeign • Spring Security • JWT • React • PostgreSQL**
-
-A full-stack e-commerce application built using a **microservices architecture**, with independent backend services communicating through REST APIs and OpenFeign.
-
 **Technologies & Features:**
 
 * Spring Boot Microservices
@@ -168,14 +160,6 @@ A full-stack e-commerce application built using a **microservices architecture**
 * React Frontend
 * PostgreSQL
 * AWS Deployment
-
----
-
-### 💼 Job Application Portal
-
-**Java • Spring Boot • React • REST APIs • PostgreSQL**
-
-A full-stack job application platform built with a Spring Boot backend and React frontend.
 
 ---
 
